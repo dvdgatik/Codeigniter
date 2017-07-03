@@ -1,0 +1,11 @@
+Codeigniter contiene las siguientes carpetas
+user_guide: tiene su propia guia o manual que puedes seguir
+system: contiene todo lo referente al funcionamiento de codeigniter
+application: es en la carpeta donde se trabaja en ella se encuentran
+los controladores
+las vistas
+los modelos
+librerias
+helpers
+cache
+configuracion: en ella se encuentran las configuraciiones como config.php ,charset , url_base (url donde iniciara codeigniter ejemplo localhost permitiendo que las url relativas sean relativas al framework y no tener que poner toda la ruta desde localhost)

@@ -1,0 +1,7 @@
+como utiliza php requiere de un servidor  como apache un gestor de base de datos y php
+exiten algunos programas como
+Xampp
+lamp
+etc
+instalamos el servidor local
+solo hay que descargar el archivo y ejecutar la carpeta desde el servidor local

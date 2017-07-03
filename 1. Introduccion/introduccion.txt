@@ -1,0 +1,11 @@
+Codeiniter es un framework  de PHP  lijero rapido, con buena documentacion facil de utilizar con cualquier hosting
+no necesitas instalarlos solo son archivos preconfigurados
+una serie de librerias 
+helpers 
+consfiguraciones escritas en php
+trabajas con tecnologias que ya conoces como php html y css
+
+
+no tiene templates particulares
+Esta basado en el mvc (Model View Controller)
+es uno de los frameworks mas veloces de php
